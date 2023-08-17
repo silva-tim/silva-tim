@@ -7,7 +7,7 @@ I am a passionate developer who loves learning and applying new concepts into pr
 ### 🗂 Projects
 - Nomad-Ventures | [Live](https://nomad-ventures.silvatim.com/) |
 [Code](https://github.com/silva-tim/nomad-ventures)
-- CountryGo | [Live](https://silva-tim.github.io/CountryGo/) | [Code](https://github.com/silva-tim/country-go)
+- CountryGo | [Live](https://silva-tim.github.io/country-go/) | [Code](https://github.com/silva-tim/country-go)
 
 ### 💻 Currently Learning
 - Tailwind CSS
