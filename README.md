@@ -16,7 +16,7 @@ I am a passionate developer who loves learning and applying new concepts into pr
 - React Native
 
 ### 💬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/silva-tim/)
+[LinkedIn](https://www.linkedin.com/in/silva-tim/) | [Personal Site](https://silvatim.com/)
 
 ### 📚 Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
