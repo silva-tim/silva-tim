@@ -10,8 +10,6 @@ I am a passionate developer who loves learning and applying new concepts into pr
 - CountryGo | [Live](https://silva-tim.github.io/country-go/) | [Code](https://github.com/silva-tim/country-go)
 
 ### 💻 Currently Learning
-- Tailwind CSS
-- TypeScript
 - Vite
 - React Native
 
