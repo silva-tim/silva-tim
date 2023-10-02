@@ -12,6 +12,8 @@ I am a passionate developer who loves learning and applying new concepts into pr
 ### 💻 Currently Learning
 - Vite
 - React Native
+- DynamoDB
+- Framer Motion
 
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/silva-tim/) | [Personal Site](https://silvatim.com/)
