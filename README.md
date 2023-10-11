@@ -7,6 +7,7 @@ I am a passionate developer who loves learning and applying new concepts into pr
 ### 🗂 Projects
 - Nomad-Ventures | [Live](https://nomad-ventures.silvatim.com/) |
 [Code](https://github.com/silva-tim/nomad-ventures)
+- Portfolio Site | [Live](https://silvatim.com/) | [Code](https://github.com/silva-tim/portfolio-website)
 - CountryGo | [Live](https://silva-tim.github.io/country-go/) | [Code](https://github.com/silva-tim/country-go)
 
 ### 💻 Currently Learning
