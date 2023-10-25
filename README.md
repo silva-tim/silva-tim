@@ -2,7 +2,7 @@
 <h3 align="center">I'm Tim, a full stack developer from Orange County, CA.</h3>
 
 ### 🗣️ About Me
-I am a passionate developer who loves learning and applying new concepts into projects. My favorite thing about coding is being able to tinker with fun, unique, and useful projects with a wide range of applicability. I love being able to see how my coding translates into real applications. Feel free to peruse my projects and play around with the demos.
+I am a passionate developer who loves learning and applying new concepts into projects. My favorite thing about coding is being able to tinker with fun, unique, and useful projects with a wide range of applicability. I love being able to see how my coding translates into real applications. Feel free to peruse my projects and play around with the live sites.
 
 ### 🗂 Projects
 - Nomad-Ventures | [Live](https://nomad-ventures.silvatim.com/) |
