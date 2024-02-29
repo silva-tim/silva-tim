@@ -13,9 +13,7 @@ I am a passionate developer who loves learning and applying new concepts into pr
 ### 💻 Currently Learning
 - SST
 - Next.js
-- React Native
 - DynamoDB
-- Framer Motion
 - AWS Lambda
 
 ### 💬 Let's Connect!
